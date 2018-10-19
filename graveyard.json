@@ -530,5 +530,33 @@
     "description": "Google X was an American semi-secret research & development organization which now operates as a subsidiary of Alphabet Inc.",
     "link": "https://en.wikipedia.org/wiki/X_(company)",
     "name": "Google X"
+  },
+  {
+    "dateClose": "2010-01-05",
+    "dateOpen": "2010-05",
+    "description": "The Nexus One (codenamed HTC Passion) is an Android smartphone designed and manufactured by HTC as Google's first Nexus smartphone.",
+    "link": "https://en.wikipedia.org/wiki/Nexus_One",
+    "name": "Google Nexus One"
+  },
+  {
+    "dateClose": "2016-09-2",
+    "dateOpen": "2013-10-29",
+    "description": "Project Ara was a modular smartphone project under development by Google.",
+    "link": "https://en.wikipedia.org/wiki/Project_Ara",
+    "name": "Project Ara"
+  },
+  {
+    "dateClose": "2005-08-22",
+    "dateOpen": "2013-05-15",
+    "description": "Often remembered as 'Gchat', Google Talk was a messaging service for both text and voice using XMPP. Google later replaced Google Talk with Hangouts.",
+    "link": "https://en.wikipedia.org/wiki/Google_Talk",
+    "name": "Google Talk"
+  },
+  {
+    "dateClose": "2015-03-15",
+    "dateOpen": "2013-04-30",
+    "description": "BebaPay was a form of electronic ticketing platform in Nairobi, Kenya.",
+    "link": "https://en.wikipedia.org/wiki/BebaPay",
+    "name": "BebaPay"
   }
 ]
